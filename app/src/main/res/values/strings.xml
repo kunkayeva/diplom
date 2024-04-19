@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">diplom1</string>
+    <string name="login_name">Вход</string>
+    <string-array name="genres">
+        <item>Фантастика</item>
+        <item>Детектив</item>
+        <item>Роман</item>
+        <item>Фантастика</item>
+        <item>Детектив</item>
+        <item>Роман</item>
+        <item>Фантастика</item>
+        <item>Детектив</item>
+        <item>Роман</item>
+    </string-array>
+    <string name="settings_name">Настройки</string>
+    <string name="add">Добавить</string>
+</resources>
